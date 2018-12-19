@@ -1,7 +1,7 @@
 {smcl}
 {* Sep 25th 2017}
 {hline}
-Help for {hi:flowChart}
+Help for {hi:flowchart}
 {hline}
 
 {title:Description}
@@ -10,7 +10,7 @@ Help for {hi:flowChart}
 
 {title:Syntax}
 
-{p}{cmd:flowChart} {help using} {it:xlsx_path} [{help if}] [{help in}]
+{p}{cmd:flowchart} {help using} {it:xlsx_path} [{help if}] [{help in}]
 
 {title:Author}
 
